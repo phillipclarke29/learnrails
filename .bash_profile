@@ -1,0 +1,5 @@
+export GMAIL_USERNAME="redhoodit@gmail.com"
+export GMAIL_PASSWORD="jess070900"
+export MAILCHIMP_API_KEY="f46ec62f61f02229c214c4625e7a94c0-us1"
+export MAILCHIMP_LIST_ID="Rails"
+export OWNER_EMAIL="philip.clarke@redhood.co.uk"
